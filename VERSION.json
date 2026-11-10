@@ -1,0 +1,12 @@
+{
+  "version": "2026.11.10.1",
+  "version_date": "2026-11-10",
+  "version_timezone": "Europe/Saratov",
+  "implemented_by": "Codex (GPT-6)",
+  "app_name": "Hermes Workspace MCP",
+  "site": "https://lexcrirovs-prog.github.io/",
+  "publication_source": {
+    "branch": "codex/google-production-20261110",
+    "path": "/docs"
+  }
+}
